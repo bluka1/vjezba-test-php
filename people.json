@@ -1,1 +1,10 @@
-["Franjo", "Josip", "Marija", "Lukaaa"]
+[
+{
+    "ime": "Franjo",
+    "brojSlova": 5,
+    "sadrziA": true,
+    "velikaSlova": "FRANJO",
+    "malaSlova": "franjo"
+
+}
+]
